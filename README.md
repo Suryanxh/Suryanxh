@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>Computer Science & Engineering student focused on **Software Development, AI/ML, and Data Structures & Algorithms**.<br><br>I work primarily with **Java and Python** and have a growing interest in **Deep Learning, Generative AI, and intelligent real-time systems**.<br><br>Currently, I’m building projects involving **Machine Learning, Kafka, FastAPI, PostgreSQL, React, and Docker**, while strengthening my foundations in **DSA, DBMS, OOP, and system design**.<br><br>**Interests:** AI/ML • Generative AI • Backend Development • DSA • Distributed Systems<br><br>> **Learn. Build. Solve. Improve.**<br>
+## About Me<br><br>Computer Science & Engineering student focused on **Software Development, AI/ML**.<br><br>I work primarily with **Java and Python** and have a growing interest in **Deep Learning, Generative AI, and intelligent real-time systems**.<br><br>Currently, I’m building projects involving **Machine Learning, Kafka, FastAPI, PostgreSQL, React, and Docker**, while strengthening my foundations in **DSA, DBMS, OOP, and system design**.<br><br>**Interests:** AI/ML • Generative AI • Backend Development • DSA • Distributed Systems<br><br>> **Learn. Build. Solve. Improve.**<br>
 
 
 ## 🌐 Socials:
@@ -12,5 +12,4 @@
 ![](https://streak-stats.demolab.com/?user=Suryanxh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Suryanxh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
